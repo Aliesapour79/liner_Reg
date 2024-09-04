@@ -46,7 +46,7 @@ mean_squared_error = sum_of_squared_errors / len(x_values)
 print("Predicted y: ", predicted_y_values)
 print("Errors: ", errors)
 print("Squared Errors: ", squared_errors)
-print("Sum of Squared Errors: ", sum_of_squared_errors)
+print("Sum of Squared Errors (SSE): ", sum_of_squared_errors)
 print("Mean Squared Error (MSE): ", mean_squared_error)
 
 # Plot the data and the regression line
