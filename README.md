@@ -56,7 +56,7 @@ When running the script, you will get an output similar to:
 Predicted y:  [2.3, 3.1, 3.9000000000000004, 4.7]
 Errors:  [-0.3 -0.1  1.1 -0.7]
 Squared Errors:  [0.09 0.01 1.21 0.49]
-Sum of Squared Errors:  1.7999999999999994
+Sum of Squared Errors (SSE):  1.7999999999999994
 Mean Squared Error (MSE):  0.44999999999999984
 ```
 
