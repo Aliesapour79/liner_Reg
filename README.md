@@ -18,9 +18,6 @@ This project demonstrates a manual implementation of linear regression from scra
 ## Usage
 
 To run the code, ensure you have `numpy` and `matplotlib` installed. Then execute the script as follows:
-
-```bash
-python linear_regression.py
 ```
 
 This will display the predicted `y` values, errors, squared errors, and Mean Squared Error (MSE). It will also generate a plot showing the actual data points and the regression line.
